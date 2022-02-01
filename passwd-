@@ -32,3 +32,5 @@ _chrony:x:112:119:Chrony daemon,,,:/var/lib/chrony:/usr/sbin/nologin
 systemd-coredump:x:999:999:systemd Core Dumper:/:/usr/sbin/nologin
 ubuntu:x:1000:1000:Ubuntu:/home/ubuntu:/bin/bash
 afanaskin:x:1001:1002::/home/afanaskin:/bin/bash
+lxd:x:998:100::/var/snap/lxd/common/lxd:/bin/false
+dnsmasq:x:113:65534::/var/lib/misc:/usr/sbin/nologin

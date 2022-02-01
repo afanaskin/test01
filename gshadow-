@@ -58,5 +58,5 @@ lxd:!::ubuntu,afanaskin
 _chrony:!::
 systemd-coredump:!!::
 ubuntu:!::afanaskin
-google-sudoers:!::
+google-sudoers:!::afanaskin
 afanaskin:!::

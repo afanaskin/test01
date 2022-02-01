@@ -58,5 +58,5 @@ lxd:x:118:ubuntu,afanaskin
 _chrony:x:119:
 systemd-coredump:x:999:
 ubuntu:x:1000:afanaskin
-google-sudoers:x:1001:
+google-sudoers:x:1001:afanaskin
 afanaskin:x:1002:
